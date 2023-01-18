@@ -141,8 +141,8 @@ header nav h2 {
   line-height: 18px;
   color: 135%;
   margin-top: -3px;
-  margin-right: 56px;
-  margin-left: 0;
+  margin-right: 0;
+  margin-left: 56px;
   margin-bottom: 0;
   color: #4754eb;
 }
@@ -411,7 +411,7 @@ main .main--content .main--mouse .main--mouse--text {
   color: #FFFFFF;
 }
 
-@media (max-width: 360px) {
+@media (max-width: 420px) {
   header {
     width: 100%;
     color: #4754eb;
@@ -437,10 +437,8 @@ main .main--content .main--mouse .main--mouse--text {
     font-size: 500;
     line-height: 18px;
     color: 135%;
-    margin-top: -3px;
     margin-right: 56px;
-    margin-left: 0;
-    margin-bottom: 0;
+    margin-left: 56px;
     color: #4754eb;
   }
   header nav ul {
@@ -777,7 +775,7 @@ section .section--2 .benefit--cards .benefit--card .benefit--card--subtitle {
   margin-bottom: 24px;
 }
 
-@media (max-width: 360px) {
+@media (max-width: 420px) {
   section .section--2 {
     width: 100%;
     height: auto;
@@ -956,7 +954,7 @@ section .section--3 .work--content .work--content--button button a {
   color: #ffffff;
 }
 
-@media (max-width: 360px) {
+@media (max-width: 420px) {
   section .section--3 {
     padding: 20px 20px;
     width: 100%;
@@ -1182,7 +1180,7 @@ section .section--4 .tarif--cards .tarif--card .tarif--card--button button a {
   color: #4754eb;
 }
 
-@media (max-width: 360px) {
+@media (max-width: 420px) {
   section .section--4 {
     width: 100%;
     height: auto;
@@ -1428,7 +1426,7 @@ section .section--5 .comment--content--card--4:hover {
   z-index: 10;
 }
 
-@media (max-width: 360px) {
+@media (max-width: 420px) {
   section .section--5 {
     width: 100%;
     height: auto;
@@ -1680,7 +1678,7 @@ section .section--6 .sale--content .sale--content--text .sale--content--text--su
   color: #4754eb;
 }
 
-@media (max-width: 360px) {
+@media (max-width: 420px) {
   section .section--6 {
     width: 100%;
     height: 663px;
@@ -1856,7 +1854,7 @@ section .section--7 .accordion .accordion--content .accordion--title {
   color: #1A1A1A;
 }
 
-@media (max-width: 360px) {
+@media (max-width: 420px) {
   section .section--7 {
     width: 100%;
     height: auto;
@@ -2036,7 +2034,7 @@ section .section--8 .connect--content .connect--content--button--text .connect--
   color: #4754eb;
 }
 
-@media (max-width: 360px) {
+@media (max-width: 420px) {
   section .section--8 {
     width: 100%;
     height: 605px;
@@ -2194,7 +2192,7 @@ footer .footer--content .footer--content--right .footer--content--right-img {
   margin-left: 8px;
 }
 
-@media (max-width: 360px) {
+@media (max-width: 420px) {
   footer {
     width: 360px;
     height: 120px;
